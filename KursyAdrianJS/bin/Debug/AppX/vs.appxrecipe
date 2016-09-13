@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-19EKIIE</Machine>
+    <WindowsUser>adrian</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>773a4f1e-8e42-4976-b6d7-1bf3ccf4fe9c</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bld\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>9C62917A86F718945480B33DBEB7A3FD5C9C56111CD5816401F8428C3593F352</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>773a4f1e-8e42-4976-b6d7-1bf3ccf4fe9c_1.0.0.0_neutral__apkshysghzkxy</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>773a4f1e-8e42-4976-b6d7-1bf3ccf4fe9c_apkshysghzkxy!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>773a4f1e-8e42-4976-b6d7-1bf3ccf4fe9c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=adrian</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-09-12T13:35:24.912</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2016-09-12T23:38:00.578</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\images\StoreLogo.png">
+      <PackagePath>images\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-10-10T20:09:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2016-09-13T08:28:29.970</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\js\script.js">
+      <PackagePath>js\script.js</PackagePath>
+      <Modified>2016-09-12T13:35:23.276</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\WinJS\js\en-US\ui.strings.js">
+      <PackagePath>WinJS\js\en-US\ui.strings.js</PackagePath>
+      <Modified>2015-10-10T20:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\WinJS\js\base.js">
+      <PackagePath>WinJS\js\base.js</PackagePath>
+      <Modified>2015-10-10T20:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\WinJS\js\ui.js">
+      <PackagePath>WinJS\js\ui.js</PackagePath>
+      <Modified>2015-10-10T20:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2016-09-12T23:37:38.094</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\WinJS\css\ui-dark.css">
+      <PackagePath>WinJS\css\ui-dark.css</PackagePath>
+      <Modified>2015-10-10T20:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\WinJS\css\ui-light.css">
+      <PackagePath>WinJS\css\ui-light.css</PackagePath>
+      <Modified>2015-10-10T20:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\WinJS\fonts\Symbols.ttf">
+      <PackagePath>WinJS\fonts\Symbols.ttf</PackagePath>
+      <Modified>2015-10-10T20:09:40.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\adrian\Documents\Visual Studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bin\Debug\ReverseMap\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2016-09-12T13:35:24.651</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

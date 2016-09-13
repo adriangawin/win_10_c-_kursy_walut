@@ -1,0 +1,16 @@
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bin\Debug\ReverseMap\resources.pri
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bin\Debug\AppxManifest.xml
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bin\Debug\KursyAdrianJS.build.appxrecipe
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bld\Debug\ResourceHandlingTask.state
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bld\Debug\priconfig.xml
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bld\Debug\priconfig.xml.intermediate
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bld\Debug\layout.resfiles
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bld\Debug\layout.resfiles.intermediate
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bld\Debug\resources.resfiles
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bld\Debug\resources.resfiles.intermediate
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bld\Debug\pri.resfiles
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bld\Debug\pri.resfiles.intermediate
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bld\Debug\qualifiers.txt
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bld\Debug\qualifiers.txt.intermediate
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\adrian\documents\visual studio 2015\Projects\KursyAdrianJS\KursyAdrianJS\bld\Debug\ProjectArchitectures.txt
